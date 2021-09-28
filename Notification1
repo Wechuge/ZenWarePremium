@@ -1,0 +1,15 @@
+local AkaliNotif = loadstring(game:HttpGet("https://raw.githubusercontent.com/Wechuge/ZenWarePremium/main/Notification"))();
+local Notify = AkaliNotif.Notify;
+
+
+Notify({
+Description = "Join the Discord to stay updated";
+Title = "Zen-Ware Premium";
+Duration = 3;
+});
+
+Notify({
+Description = "Made by Wechuge#3876";
+Duration = 3;
+});
+
