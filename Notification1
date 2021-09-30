@@ -9,7 +9,6 @@ Duration = 3;
 });
 
 Notify({
-Description = "Made by Wechuge#3876";
+Description = "Credits \n Wechuge#3876 \n Therapist#9553 \n AdriaD2103#2958";
 Duration = 3;
 });
-
